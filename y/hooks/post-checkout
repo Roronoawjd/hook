@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "I'm roronoa" > /tmp/pwnd
+calc.exe
+open -a Calculator.app
